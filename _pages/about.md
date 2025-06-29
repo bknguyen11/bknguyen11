@@ -31,9 +31,9 @@ For external collaboration: khanhbaokhanh11@gmail.com
 
 **My office**: 
 
-Room 6324, James Clerk Maxwell Building, \\
-King's Building Campus, The University of Edinburgh \\
-Edinburgh \\
-EH9 3FD\\
+Room 6324, James Clerk Maxwell Building, \
+King's Building Campus, The University of Edinburgh \
+Edinburgh \
+EH9 3FD\
 United Kingdom
 

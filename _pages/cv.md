@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, The University of Edinburgh, 2028 (expected)
+* MSc. in Mathematics, Queen Mary University of London, 2022
+* BSc. in Mathematics, Hanoi National University of Education, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2025 - now: Mathematics Tutor
+  * The University of Edinburgh
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2023 - now: Statistics Junior Lecturer
+  * National Economics University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2022 - Mar 2023: Research Assistant
+  * Oxford University Clinical Research Unit
+  * Supervisor: Dr. Le Thanh Hoang Nhat
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills:
+  * LaTeX
+  * Python
+  * R
+* Teaching
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer-reviewer, Edinburgh Student Journal of Science *(January 2025 - present)*  
+* Consultant, American Statistical Association Data Fest 2025 *(March 2025)*  
+* Volunteer Supporter, Mathematics Open Day,  Vietnam Institute for Advanced Study in Mathematics *(November 2019)*

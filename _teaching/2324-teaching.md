@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/2324-teaching
 venue: "Faculty of Statistics, National University Economics"
-date: 2023
+date: 2024-01-01
 location: "Hanoi, Vietnam"
 ---
 

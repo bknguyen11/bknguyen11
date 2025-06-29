@@ -17,8 +17,7 @@ I have a small blog page where I share knowledge in Mathematics, Statistics, Mac
 
 News!!
 ======
-I was accepted to present my work the Centre for Statistics Annual Conference *(Edinburgh, June, 2025)*.
-
+I was accepted to present my work the Centre for Statistics Annual Conference *(Edinburgh, June, 2025)*.\
 Winning Team of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company *(May, 2025)*.
 
 Contacts

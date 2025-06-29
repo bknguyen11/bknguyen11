@@ -15,19 +15,10 @@ My (small) Blog Page
 ======
 I have a small blog page where I share knowledge in Mathematics, Statistics, Machine Learning and Data Science fields [link](https://sites.google.com/view/bao-khanh-nguyen/homepage). If you have the same interests and want to read more about topics in the field along with tips when doing research, you are all welcome. I am open to any collaborations and internship.
 
-Awards
+News!!
 ======
-Winning Team of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company.
-
-PhD School of Mathematics Full Studentship, University of Edinburgh (U.K.).
-
-Pre-doctoral Fellowship, Imperial College London, funded by the U.K. National Institute for Health and Care Research.
-
-Global Excellence Scholarship, Queen Mary University of London (U.K.).
-
-Full Scholarship, Science Summer Camp 2019, City University of Hong Kong (Hong Kong).
-
-Annual Certificates of Merit and Scholarship for Students with Outstanding Academic Results, Hanoi National University of Education (Vietnam).
+I was accepted to present my work the Centre for Statistics Annual Conference *(Edinburgh, June, 2025)*
+Winning Team of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company *(May, 2025)*.
 
 Contacts
 ------

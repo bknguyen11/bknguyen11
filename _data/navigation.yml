@@ -23,11 +23,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
     
-   - title: "Outreach Activities"
-     url: /outreachactivities/
+  #- title: "Outreach Activities"
+  #   url: /outreachactivities/
     
-  - title: "Outside Academic Me"
-    url: /outsiteacademicme/
+  #- title: "Outside Academic Me"
+  #  url: /outsiteacademicme/

@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bao-Khanh Nguyen. I am a PhD student in Applied Mathematics and Statistics supervised by Dr. Torben Sell at the University of Edinburgh (U.K.), funded by the School of Mathematics. My PhD project involves applying Bayesian statistics and Machine Learning to develop techniques and statistical algorithms for analysing high-dimensional data. I also work as an editor/ journal reviewer at the Edinburgh Student Journal of Science (U.K.).  I am a member of the Royal Statistics Society (U.K.) and the Edinburgh Mathematics Society (U.K.).
+My name is Bao-Khanh Nguyen. I am a PhD student in Applied Mathematics and Statistics supervised by Dr. Torben Sell at the University of Edinburgh (U.K.), funded by the School of Mathematics. My research focuses on Bayesian Machine Learning techniques and statistical algorithms for analysing high-dimensional data. 
 
-I am holding a position as a Statistics and Data Science Lecturer at National Economics University (Vietnam).  
+I also work as an editor/ journal reviewer at the Edinburgh Student Journal of Science (U.K.).  I am a member of the Royal Statistics Society (U.K.) and the Edinburgh Mathematics Society (U.K.). I am holding a position as a Statistics and Data Science Lecturer at National Economics University (Vietnam).  
 
 My (small) Blog Page
 ======
@@ -19,13 +19,19 @@ Contacts
 ------
 **Email**: 
 For internal work at UoE: bnguyen@ed.ac.uk  
+
 For internal work at NEU: khanhnb@neu.edu.vn  
+
 For external collaboration: khanhbaokhanh11@gmail.com
 
 **My office**: 
 Room 6324, James Clerk Maxwell Building, 
+
 King's Building Campus, The University of Edinburgh 
+
 Edinburgh 
+
 EH9 3FD
+
 United Kingdom 
 

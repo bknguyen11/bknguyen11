@@ -23,20 +23,16 @@ Winning Team of the International Centre for Mathematics Sciences Modelling Camp
 Contacts
 ------
 **Email**: 
+
 For internal work at UoE: bnguyen@ed.ac.uk  
-
 For internal work at NEU: khanhnb@neu.edu.vn  
-
 For external collaboration: khanhbaokhanh11@gmail.com
 
 **My office**: 
+
 Room 6324, James Clerk Maxwell Building, 
-
 King's Building Campus, The University of Edinburgh 
-
 Edinburgh 
-
 EH9 3FD
-
 United Kingdom 
 

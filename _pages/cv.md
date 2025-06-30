@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/5b4227fb-06c1-4c83-8f67-50b8fe082bf6)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -26,6 +26,17 @@ Work experience
 * Sep 2022 - Mar 2023: Research Assistant
   * Oxford University Clinical Research Unit
   * Supervisor: Dr. Le Thanh Hoang Nhat
+ 
+Academic Awards
+======
+* *May, 2025* **First prize**, International Centre for Mathematics Sciences Modelling Camp 2025  
+* *Feb, 2024* **PhD Fully-funded Studentship**, School of Mathematics, University of Edinburgh  
+* *June, 2023* **Pre-doctoral Fellowship**, Imperial College London, funded by U.K National Institute for Health and Care Research
+* *Jul, 2021* **Global Excellence Scholarship**, Queen Mary University of London
+* *Jun, 2020* Award for Students Graduating with Excellent Academic Results, Hanoi National University of Education
+* *Aug, 2019* **Fully-funded Scholarship**, Science Summer Camp, City University of Hong Kong
+* *2017 - 2019* Annual Award and Scholarship for Students with Outstanding Achievements, Hanoi National University of Education
+
   
 Skills
 ======
@@ -38,6 +49,6 @@ Skills
   
 Service and leadership
 ======
-* Peer-reviewer, Edinburgh Student Journal of Science *(January 2025 - present)*  
-* Consultant, American Statistical Association Data Fest 2025 *(March 2025)*  
-* Volunteer Supporter, Mathematics Open Day,  Vietnam Institute for Advanced Study in Mathematics *(November 2019)*
+* *(January 2025 - present)* Peer-reviewer, Edinburgh Student Journal of Science  
+* *(March 2025)* Consultant, American Statistical Association Data Fest 2025    
+* *(November 2019)* Volunteer Supporter, Mathematics Open Day,  Vietnam Institute for Advanced Study in Mathematics 

@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Statistics, The University of Edinburgh, 2028 (expected)

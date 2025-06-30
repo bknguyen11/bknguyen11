@@ -13,7 +13,7 @@ I also work as an editor/ journal reviewer at the Edinburgh Student Journal of S
 
 My (small) Blog Page
 ======
-I have a small blog page where I share knowledge in Mathematics, Statistics, Machine Learning and Data Science fields [(link)](https://sites.google.com/view/bao-khanh-nguyen/homepage). If you have the same interests and want to read more about topics in the field along with tips when doing research, you are all welcome. I am open to any collaborations and internship.
+I have a small blog page where I share knowledge in Mathematics, Statistics, Machine Learning and Data Science fields [(link)](https://sites.google.com/view/msdsimpact/about). If you have the same interests and want to read more about topics in the field along with tips when doing research, you are all welcome. I am open to any collaborations and internship.
 
 News!!
 ======

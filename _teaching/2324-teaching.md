@@ -1,7 +1,7 @@
 ---
 title: "23-24 Teachings"
 collection: teaching
-type: "Lecture"
+type: "Undergraduate Courses"
 permalink: /teaching/2324-teaching/
 venue: "Faculty of Statistics, National University Economics"
 date: 2024-01-01

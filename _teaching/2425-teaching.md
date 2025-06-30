@@ -1,5 +1,5 @@
 ---
-title: "2024-2025 teachings"
+title: "24-25 Teachings"
 collection: teaching
 type: "Postgraduate courses"
 permalink: /teaching/2425-teaching/

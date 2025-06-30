@@ -9,13 +9,13 @@
 
 main:
   - title: "Publications"
-    url: /_publications/
+    url: /publications/
 
   - title: "Talks"
-    url: /_talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: /_teaching/    
+    url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -24,7 +24,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /_pages/cv.md
+    url: /pages/cv.md
     
   #- title: "Outreach Activities"
   #   url: /outreachactivities/

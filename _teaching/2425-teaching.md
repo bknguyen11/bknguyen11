@@ -8,13 +8,6 @@ date: 2025-01-01
 location: "Edinburgh, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Machine Learning in Python *(Spring Semester)*  
+Statistics with Data Science Consultancy Style Master's Dissertation *(Summer Semester)*
 
-Machine Learning in Python (Spring Semester)
-======
-
-Statistics with Data Science Consultancy Style Master's Dissertation (Summer Semester)
-======
-
-Heading 3
-======

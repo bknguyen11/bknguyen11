@@ -9,16 +9,13 @@ redirect_from:
 
 My name is Bao-Khanh Nguyen. I am a PhD student in Applied Mathematics and Statistics supervised by [Dr. Torben Sell](https://webhomes.maths.ed.ac.uk/~tsell/) and [Dr. Cecilia Balocchi](https://cecilia-balocchi.owlstown.net) at the University of Edinburgh (U.K.), funded by the School of Mathematics. My research focuses on Bayesian Machine Learning techniques and statistical algorithms for analysing high-dimensional data. 
 
-I also work as an editor/ journal reviewer at the Edinburgh Student Journal of Science (U.K.).  I am a member of the Royal Statistics Society (U.K.) and the Edinburgh Mathematics Society (U.K.). I am holding a position as a Statistics and Data Science Lecturer at National Economics University (Vietnam).  
-
-%My (small) Blog Page
-%======
-%I have a small blog page where I share knowledge in Mathematics, Statistics, Machine Learning and Data Science fields [(link)](https://sites.google.com/view/msdsimpact/about). If %you have the same interests and want to read more about topics in the field along with tips when doing research, you are all welcome. I am open to any collaborations and %internship.
+I also work as an editor at the Edinburgh Student Journal of Science (U.K.).  I am a member of the Royal Statistics Society (U.K.) and the Edinburgh Mathematics Society (U.K.). I am holding a position as a Statistics Lecturer at National Economics University (Vietnam).  
 
 News!!
 ======
-I was accepted to present my work the Centre for Statistics Annual Conference *(Edinburgh, June, 2025)*.  
-Winning Team of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company *(May, 2025)*.
+*August, 2025:* I was awarded the **Marion Reid EDI and Public Engagement Fund** to support my travel to the 2025 Research Students’ Conference in Probability and Statistics, Glasgow (UK).
+*June, 2025:* I was accepted to present my work the Centre for Statistics Annual Conference, Edinburgh (UK).  
+*May, 2025:* Winning Team of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company.
 
 Contacts
 ------

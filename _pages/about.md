@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Bao-Khanh Nguyen. I am a PhD student in Applied Mathematics and Statistics supervised by [Dr. Torben Sell](https://webhomes.maths.ed.ac.uk/~tsell/) and [Dr. Cecilia Balocchi](https://cecilia-balocchi.owlstown.net) at the University of Edinburgh (U.K.), funded by the School of Mathematics. My research focuses on Bayesian Machine Learning techniques and statistical algorithms for analysing high-dimensional data. 
 
-I also work as an editor at the Edinburgh Student Journal of Science (U.K.).  I am a member of the Royal Statistics Society (U.K.) and the Edinburgh Mathematics Society (U.K.). I am holding a position as a Statistics Lecturer at National Economics University (Vietnam).  
+I am holding a position as a Statistics Lecturer at National Economics University (Vietnam). I also work as a part-time editor at the Edinburgh Student Journal of Science (U.K.).  I am a member of the Royal Statistics Society (U.K.) and the Edinburgh Mathematics Society (U.K.). 
 
 News!!
 ======
@@ -20,9 +20,7 @@ News!!
 Contacts
 ------
 **Email**: 
-
-For internal work at UoE: bnguyen@ed.ac.uk  
-For internal work at NEU: khanhnb@neu.edu.vn  
+You can email me at [bnguyen@ed.ac.uk](bnguyen@ed.ac.uk) or [khanhnb@neu.edu.vn](khanhnb@neu.edu.vn)
 
 **My office**: 
 

@@ -15,7 +15,7 @@ News!!
 ======
 - *August, 2025:* I was awarded the **Marion Reid EDI and Public Engagement Fund** to support my travel to the 2025 Research Students’ Conference in Probability and Statistics, Glasgow (UK).  
 - *June, 2025:* I was accepted to present my work the Centre for Statistics Annual Conference, Edinburgh (UK).  
-- *May, 2025:* Winning Team of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company.
+- *May, 2025:* **Winning Team** of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company.
 
 Contacts
 ------

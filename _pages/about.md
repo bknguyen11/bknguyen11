@@ -11,9 +11,9 @@ My name is Bao-Khanh Nguyen. I am a PhD student in Applied Mathematics and Stati
 
 I also work as an editor/ journal reviewer at the Edinburgh Student Journal of Science (U.K.).  I am a member of the Royal Statistics Society (U.K.) and the Edinburgh Mathematics Society (U.K.). I am holding a position as a Statistics and Data Science Lecturer at National Economics University (Vietnam).  
 
-My (small) Blog Page
-======
-I have a small blog page where I share knowledge in Mathematics, Statistics, Machine Learning and Data Science fields [(link)](https://sites.google.com/view/msdsimpact/about). If you have the same interests and want to read more about topics in the field along with tips when doing research, you are all welcome. I am open to any collaborations and internship.
+%My (small) Blog Page
+%======
+%I have a small blog page where I share knowledge in Mathematics, Statistics, Machine Learning and Data Science fields [(link)](https://sites.google.com/view/msdsimpact/about). If %you have the same interests and want to read more about topics in the field along with tips when doing research, you are all welcome. I am open to any collaborations and %internship.
 
 News!!
 ======

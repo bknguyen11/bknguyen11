@@ -23,7 +23,6 @@ Contacts
 
 For internal work at UoE: bnguyen@ed.ac.uk  
 For internal work at NEU: khanhnb@neu.edu.vn  
-For external collaboration: khanhbaokhanh11@gmail.com
 
 **My office**: 
 

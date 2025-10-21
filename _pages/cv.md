@@ -46,6 +46,7 @@ Skills
   
 Service and leadership
 ======
-* *(January 2025 - present)* Peer-reviewer, Edinburgh Student Journal of Science  
+* *(January 2025 - present)* Peer-reviewer, Edinburgh Student Journal of Science 
+* *(September 2024 - present)* Postgraduate Research Representative - PG Colloquium Organiser, School of Mathematics, University of Edinburgh  
 * *(March 2025)* Consultant, American Statistical Association Data Fest 2025    
 * *(November 2019)* Volunteer Supporter, Mathematics Open Day,  Vietnam Institute for Advanced Study in Mathematics 

@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bao-Khanh Nguyen. I am a PhD student in Mathematics and Statistics supervised by [Dr. Torben Sell](https://webhomes.maths.ed.ac.uk/~tsell/) and [Dr. Cecilia Balocchi](https://cecilia-balocchi.owlstown.net) at the University of Edinburgh (U.K.), financially supported by the School of Mathematics (University of Edinburgh). My research focuses on Bayesian Machine Learning and Probabilistic AI, developing more scalable and computationally efficient statistical algorithms to analyse high-dimensional data. I am currently working on are Bayesian clustering for satellite images. Our work not only helps detect existing land cover types but also can discover new land uses and allow spatial correlation to provide accurate uncertainty quantification. I also work on Bayesian Deep Learning, where I develop novel approaches for better choosing prior and approximating posterior for big data.
+My name is Bao-Khanh Nguyen. I am a PhD student in Mathematics and Statistics supervised by [Dr. Torben Sell](https://webhomes.maths.ed.ac.uk/~tsell/) and [Dr. Cecilia Balocchi](https://cecilia-balocchi.owlstown.net) at the University of Edinburgh (U.K.), financially supported by the School of Mathematics (University of Edinburgh). My research focuses on Bayesian Machine Learning and Probabilistic AI, developing more scalable and computationally efficient statistical algorithms to analyse high-dimensional data.  
+
+I am currently working on are Bayesian clustering for satellite images. Our work not only helps detect existing land cover types but also can discover new land uses and allow spatial correlation to provide accurate uncertainty quantification. I also work on Bayesian Deep Learning, where I develop novel approaches for better choosing prior and approximating posterior for big data.
 
 I am holding a position as a Statistics Lecturer at National Economics University (Vietnam). I also work as a part-time editor at the Edinburgh Student Journal of Science (U.K.).  I am a member of International Society for Bayesian Analysis (ISBA), the Royal Statistics Society (U.K.) and the Edinburgh Mathematics Society (U.K.). 
 

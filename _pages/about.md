@@ -22,11 +22,11 @@ News!!
 Contacts
 ------
 **Email**: 
-You can email me at [bnguyen@ed.ac.uk](bnguyen@ed.ac.uk) or [khanhnb@neu.edu.vn](khanhnb@neu.edu.vn)
+You can email me at [bnguyen@ed.ac.uk](bnguyen@ed.ac.uk)
 
 **My office**: 
 
-Room 6324, James Clerk Maxwell Building,  
+Room 6311, James Clerk Maxwell Building,  
 King's Building Campus, The University of Edinburgh  
 Edinburgh  
 EH9 3FD  

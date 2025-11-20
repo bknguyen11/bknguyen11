@@ -30,5 +30,5 @@ main:
   #- title: "Outreach Activities"
   #   url: /outreachactivities/
     
-  #- title: "Outside Academic Me"
-  #  url: /outsiteacademicme/
+  - title: "Outside Academic Me"
+    url: /outsiteacademicme/

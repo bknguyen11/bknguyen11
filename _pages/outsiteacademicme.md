@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: archive
 title: "Outside Academic Me"
-permalink: /outsideacademicme/
+permalink: /outsiteacademicme/
 author_profile: true
 ---
 

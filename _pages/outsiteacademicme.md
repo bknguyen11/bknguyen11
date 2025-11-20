@@ -1,7 +1,10 @@
 ---
-layout: archive
+permalink: /
 title: "Outside Academic Me"
-permalink: /outsideacademicme/
+author_profile: true
+redirect_from: 
+  - /outsideacademicme/
+  - /outsideacademicme.md
 ---
 
 I'm proud to be a Vietnamese, a girl being raised in the beautiful and historic capital city, in a traditional and well-educated family. I am a big fan of travelling and new experiences. I have been to more than 25 countries and still counting. I hope that soon in the next few years, I could go nearer to the North Pole and experience the coldness there.  

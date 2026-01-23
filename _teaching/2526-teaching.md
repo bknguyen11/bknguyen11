@@ -8,6 +8,6 @@ date: 2025-01-01
 location: "Edinburgh, UK"
 ---
 
-Facets of Mathematics *(Tutor, Fall Semester)*  
-Statistical Programming *(Tutor, Fall Semester)*  
-
+Facets of Mathematics *(Tutor, Semester 1)*  
+Statistical Programming *(Tutor, Semester 1)*  
+Machine Learning in Python *(Tutor, Semester 2)*  

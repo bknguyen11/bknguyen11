@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+* This is a brief version of my CV. Please contact me for a more detailed one.
+
 Education
 ======
 * Ph.D in Statistics, The University of Edinburgh, 2028 (expected)
@@ -22,6 +24,7 @@ Work experience
 
 * Sep 2022 - Mar 2023: Research Assistant
   * Oxford University Clinical Research Unit
+  * Research theme: Biostatistics and bioinformatics
   * Supervisor: Dr. Le Thanh Hoang Nhat
  
 Academic Awards
@@ -41,7 +44,7 @@ Skills
   * LaTeX
   * Python
   * R
-* Teaching
+* Teaching skill
 
   
 Service and leadership

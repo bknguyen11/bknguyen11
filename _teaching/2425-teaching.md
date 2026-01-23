@@ -9,5 +9,5 @@ location: "Edinburgh, UK"
 ---
 
 Statistics with Data Science Consultancy Style Master's Dissertation *(Tutor, Summer Semester)*  
-Machine Learning in Python *(Tutor, Spring Semester)*  
+Machine Learning in Python *(Tutor, Semester 2)*  
 

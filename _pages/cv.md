@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* This is a brief version of my CV. Please contact me for a more detailed one.
+* This is a brief version of my CV. Please [contact me](bnguyen@ed.ac.uk) for a more detailed one.
 
 Education
 ======

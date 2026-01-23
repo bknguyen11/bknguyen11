@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Bao-Khanh Nguyen. I am a PhD student in Mathematics and Statistics supervised by [Dr. Torben Sell](https://webhomes.maths.ed.ac.uk/~tsell/) and [Dr. Cecilia Balocchi](https://cecilia-balocchi.owlstown.net) at the School of Mathematics, University of Edinburgh (U.K.). My research focuses on Bayesian Machine Learning and Probabilistic AI, developing more scalable and computationally efficient statistical algorithms to analyse high-dimensional data.  
 
-I am currently working on Bayesian clustering for satellite images to improve limitations of existing clustering methods by allowing spatial correlation and distribution shift and providing a general-purpose clustering method for high-dimensional images. I also work on Bayesian Neural Network, where I study the posterior concentration rate and Bayesian asymptotic statistics.
+I am currently working on Bayesian clustering for satellite images to improve limitations of existing clustering methods by allowing spatial correlation and distribution shifts and providing a general-purpose Bayesian clustering method for high-dimensional images. I also work on Bayesian Neural Network, where I study the posterior concentration rate and Bayesian asymptotic statistics.
 
 Before that, I obtained my Bachelor's degree from Hanoi National University of Education (Vietnam) and my Master's degree from Queen Mary University of London (U.K), both in Mathematics. I am also holding a position as a Statistics Lecturer at National Economics University (Vietnam) and supporting he curriculum design for the new Business Intelligence program. 
 

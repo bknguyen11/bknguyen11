@@ -29,6 +29,7 @@ Work experience
  
 Academic Awards
 ======
+* *March, 2026* **Early Career Research Travel Grant**, London Mathematical Society 
 * *May, 2025* **First prize**, International Centre for Mathematics Sciences Modelling Camp 2025  
 * *Feb, 2024* **PhD Fully-funded Studentship**, School of Mathematics, University of Edinburgh  
 * *June, 2023* **Pre-doctoral Fellowship**, Imperial College London, funded by U.K National Institute for Health and Care Research
@@ -44,12 +45,12 @@ Skills
   * LaTeX
   * Python
   * R
-* Teaching skill
+* Additional skills: Latex, Linux (Ubuntu), GitHub.
 
   
 Service and leadership
 ======
 * *(January 2025 - present)* Peer-reviewer, Edinburgh Student Journal of Science 
-* *(September 2024 - present)* Postgraduate Research Representative - PG Colloquium Organiser, School of Mathematics, University of Edinburgh  
+* *(September 2024 - present)* Postgraduate Research Students Seminar Organiser, School of Mathematics, University of Edinburgh  
 * *(March 2025)* Consultant, American Statistical Association Data Fest 2025    
 * *(November 2019)* Volunteer Supporter, Mathematics Open Day,  Vietnam Institute for Advanced Study in Mathematics 

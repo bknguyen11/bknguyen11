@@ -11,7 +11,7 @@ My name is Bao-Khanh Nguyen. I am a PhD student in Mathematics and Statistics su
 
 I am currently working on Bayesian clustering for satellite images to improve limitations of existing clustering methods by allowing spatial correlation and distribution shifts and providing a general-purpose Bayesian clustering method for high-dimensional images. I also work on Bayesian Neural Network, where I study the posterior concentration rate and Bayesian asymptotic statistics.
 
-Before that, I obtained my Bachelor's degree from Hanoi National University of Education (Vietnam) and my Master's degree from Queen Mary University of London (U.K), both in Mathematics. I am also holding a position as a University Teacher at National Economics University (Vietnam) and supporting the curriculum design for the new Business Intelligence program. 
+Before that, I obtained my Bachelor's degree from Hanoi National University of Education (Vietnam) and my Master's degree from Queen Mary University of London (U.K), both in Mathematics. I am also holding a position as a University Teacher at National Economics University (Vietnam) and supporting designing the curriculum for the new Business Intelligence program. 
 
 News!!
 ======

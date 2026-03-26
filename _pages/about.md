@@ -15,8 +15,9 @@ Before that, I obtained my Bachelor's degree from Hanoi National University of E
 
 News!!
 ======
+- *March, 2026:* I was award the Early Career Research Travel Grant by the London Mathematical Society.
+- *December, 2025:* I will attend and present my poster at the ISBA World Meeting and the Bayesian Young Statistician Meeting (BAYSM) in Japan in June 2026.
 - *August, 2025:* I was awarded the **Marion Reid EDI and Public Engagement Fund** to support my travel to the 2025 Research Students’ Conference in Probability and Statistics, Glasgow (UK).  
-- *June, 2025:* I was accepted to present my work the Centre for Statistics Annual Conference, Edinburgh (UK).  
 - *May, 2025:* **Winning Team** of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company.
 
 Contacts

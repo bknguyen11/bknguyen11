@@ -19,7 +19,7 @@ Work experience
 * Jan 2025 - now: Mathematics Tutor
   * The University of Edinburgh
 
-* Jun 2023 - now: Statistics Junior Lecturer
+* Jun 2023 - now: University Teacher
   * National Economics University
 
 * Sep 2022 - Mar 2023: Research Assistant
@@ -42,7 +42,6 @@ Academic Awards
 Skills
 ======
 * Programming skills:
-  * LaTeX
   * Python
   * R
 * Additional skills: Latex, Linux (Ubuntu), GitHub.

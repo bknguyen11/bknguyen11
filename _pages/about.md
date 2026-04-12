@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bao-Khanh Nguyen. I am a PhD student in Mathematics and Statistics supervised by [Dr. Torben Sell](https://webhomes.maths.ed.ac.uk/~tsell/) and [Dr. Cecilia Balocchi](https://cecilia-balocchi.owlstown.net) at the School of Mathematics, University of Edinburgh (U.K.). My research focuses on Bayesian Machine Learning and Probabilistic AI, developing more scalable and computationally efficient statistical algorithms to analyse high-dimensional data.  
+My name is Bao-Khanh Nguyen. I am a PhD student in Mathematics and Statistics at the University of Edinburgh, affiliated with the School of Mathematics. My research focuses on Bayesian Machine Learning and Probabilistic AI, developing more scalable and computationally efficient statistical algorithms to analyse high-dimensional data.  
 
-I am currently working on Bayesian clustering, design new methodology/algorithm to improve limitations of existing clustering methods. By allowing spatial correlation and informative prior, our work provides a general-purpose Bayesian clustering method that is reliable and stable for high-dimensional images under distribution shifts. I also work on Bayesian asymptotic statistics, where I study the posterior concentration rate under Bayesian Neural Network settings. The research explores suitable priors and function class to guarantee the optimal concentrate rate for posterior estimation. 
+I am fortunate to be supervised by [Dr. Torben Sell](https://webhomes.maths.ed.ac.uk/~tsell/) and [Dr. Cecilia Balocchi](https://cecilia-balocchi.owlstown.net)
 
-Before that, I obtained my Bachelor's degree from Hanoi National University of Education (Vietnam) and my Master's degree from Queen Mary University of London (U.K), both in Mathematics.
+I am currently working on both applied and theoretical side of Bayesian Machine learning. For applications, I focus on developing Bayesian clustering methods for satellite image segmentation that incorporate spatial correlation and informative priors, aiming to deliver a general-purpose, robust, and stable approach for high-dimensional images under distribution shifts.
+
+For theoretical side, I mainly work on Bayesian asymptotic statistics, where I study the posterior concentration rate under Bayesian Neural Network settings. The research explores suitable priors and function class to guarantee the optimal minimax concentrate rate for posterior estimation, together with improving the computational speed.
+
+Before my doctoral studiesat, I obtained my Master's degree from Queen Mary University of London (U.K) and the Bachelor's degree from Hanoi National University of Education (Vietnam), both in Mathematics.
 
 News!!
 ======

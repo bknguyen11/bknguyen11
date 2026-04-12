@@ -13,7 +13,7 @@ My work spans both the applied and theoretical sides of Bayesian machine learnin
 
 For theoretical side, I mainly work on Bayesian asymptotic statistics, where I study the posterior concentration rate under Bayesian Neural Network settings. The research explores suitable priors and function class to guarantee the optimal minimax concentrate rate for posterior estimation, together with improving the computational speed.
 
-Before my doctoral studiesat, I obtained my Master's degree from Queen Mary University of London (U.K) and the Bachelor's degree from Hanoi National University of Education (Vietnam), both in Mathematics.
+Before my doctoral studies, I obtained my Master's degree from Queen Mary University of London (U.K) and the Bachelor's degree from Hanoi National University of Education (Vietnam), both in Mathematics.
 
 News!!
 ======

@@ -8,7 +8,7 @@ Apart from doing math and research, I enjoy cooking and can spend hours in the k
 
 I have played the piano since I was 7 years old, and I can play quite well. I love classical music and going to music concerts, which was inspired by my father - the one who taught me how to play the piano for the first time. 
 
-I love being active. I do cycling, swimming, play badminton, and recently, I started doing bouldering. 
+I love being active. I do cycling, swimming, play badminton, and recently, I have started trying bouldering. 
 
 I am a big fan of travelling. I have been to 30 countries and still counting. Next on my bucket list: Iceland.
 

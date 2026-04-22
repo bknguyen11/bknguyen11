@@ -45,6 +45,7 @@ layout: default
           <ul>
             {% for event in page.events %}
               <li>
+                <em>{{ event.type }}</em> — 
                 <strong>{{ event.venue }}</strong>, {{ event.location }}
                 (<time datetime="{{ event.date | date_to_xmlschema }}">
                   {{ event.date | date: "%B %d, %Y" }}

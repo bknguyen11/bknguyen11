@@ -17,7 +17,6 @@ Before my doctoral studies, I obtained my Master's degree from Queen Mary Univer
 
 News!!
 ======
-- *April, 2026:* Invited talk at the TreeSense Science Meeting at Department of Geosciences and Natural Resource Management, University of Copenhagen, Denmark (May 2026) 
 - *March, 2026:* I will present my research work at the ISBA World Meeting and the Bayesian Young Statistician Meeting (BAYSM), Japan (June 2026).
 - *August, 2025:* I was awarded the **Marion Reid EDI and Public Engagement Fund** to support my travel to the 2025 Research Students’ Conference in Probability and Statistics, Glasgow (UK).  
 - *May, 2025:* **Winning Team** of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company.

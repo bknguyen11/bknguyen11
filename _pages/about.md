@@ -11,7 +11,7 @@ I am a PhD student in Mathematics and Statistics at the University of Edinburgh,
 
 My work spans both the applied and theoretical sides of Bayesian machine learning. For applications, I am developing a Bayesian clustering method for satellite image segmentation that incorporates spatial correlation and informative priors, aiming to deliver a general-purpose, robust, and stable segmentation approach for high-dimensional images under distribution shifts.
 
-For theoretical side, I mainly work on Bayesian asymptotic statistics, where I study the posterior concentration rate under Bayesian Neural Network settings. The research explores suitable priors and function class to guarantee the optimal minimax concentrate rate for posterior estimation, together with improving the computational speed.
+For theoretical side, I mainly work on Bayesian asymptotic statistics, where I study the posterior concentration rate under Bayesian Deep learning settings. The research explores suitable priors and function class to guarantee the optimal minimax concentrate rate for posterior estimation, together with improving the computational speed.
 
 Before my doctoral studies, I obtained my Master's degree from Queen Mary University of London (U.K) and the Bachelor's degree from Hanoi National University of Education (Vietnam), both in Mathematics.
 

@@ -29,8 +29,7 @@ Contacts
 You can email me at [B.K.Nguyen@sms.ed.ac.uk](B.K.Nguyen@sms.ed.ac.uk)
 
 **My office**: 
-
-Room 6311, James Clerk Maxwell Building,  
+James Clerk Maxwell Building,  
 King's Building Campus, University of Edinburgh  
 Edinburgh  
 EH9 3FD  

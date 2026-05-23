@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Edinburgh, UK"
 ---
 
-Master's Dissertation *(Tutor, Summer Semester)*
+Master's Dissertation *(Tutor, Summer Semester)*  
 Statistical Research Skills *(Tutor, Semester 2)*  
 Machine Learning in Python *(Tutor, Semester 2)*  
 Facets of Mathematics *(Tutor, Semester 1)*  

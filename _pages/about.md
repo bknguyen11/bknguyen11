@@ -11,13 +11,13 @@ I am a PhD student in Mathematics and Statistics at the University of Edinburgh,
 
 My work spans both the applied and theoretical sides of Bayesian Machine learning. For applications, I am developing a Bayesian clustering method for satellite image segmentation that incorporates spatial correlation and informative priors, aiming to deliver a general-purpose, robust, and stable segmentation approach for high-dimensional images under distribution shifts.
 
-For theoretical side, I mainly work on Bayesian asymptotic statistics, where I study the posterior concentration rate under Bayesian Deep learning settings. The research aims to provide a theoretical justification for the optimal minimax concentration rate with a well-designed network under simple priors (e.g., Gaussian priors) in a computationally efficient framework.
+For theoretical side, I mainly work on Bayesian deep learning, where I study the posterior concentration rate under Bayesian Deep learning settings. The research aims to provide a theoretical justification for the optimal minimax concentration rate with a well-designed network under simple priors (e.g., Gaussian priors) in a computationally efficient framework.
 
 Before my doctoral studies, I obtained my Master's degree from Queen Mary University of London (U.K) and the Bachelor's degree from Hanoi National University of Education (Vietnam), both in Mathematics.
 
 News!!
 ======
-- *April, 2026*: I was awarded the **Junior Researcher Travel Award** by International Society for Bayesian Analysis (ISBA) 
+- *June, 2026*: My first PhD paper **Scalable Bayesian Spatial Mixture Modelling for Remote Sensing Image Segmentation** is now available on [arXiv]{https://arxiv.org/abs/2606.29448}   
 - *March, 2026:* I will present my research work at the ISBA World Meeting and the Bayesian Young Statistician Meeting (BAYSM), Japan (June 2026).
 - *March, 2026:* I was awarded the **Early Career Research Travel Grant** by London Mathematical Society. 
 - *August, 2025:* I was awarded the **Marion Reid EDI and Public Engagement Fund** to support my travel to the 2025 Research Students’ Conference in Probability and Statistics, Glasgow (UK).  

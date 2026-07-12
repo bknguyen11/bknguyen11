@@ -17,7 +17,8 @@ Before my doctoral studies, I obtained my Master's degree from Queen Mary Univer
 
 News!!
 ======
-- *June, 2026*: My first PhD paper **Scalable Bayesian Spatial Mixture Modelling for Remote Sensing Image Segmentation** is now available on [arXiv](https://arxiv.org/abs/2606.29448).   
+- *June, 2026*: My first PhD paper **Scalable Bayesian Spatial Mixture Modelling for Remote Sensing Image Segmentation** is now available on [arXiv](https://arxiv.org/abs/2606.29448).
+- *May,2026*: I was award the **New Researcher Travel Award** by ISBA. 
 - *March, 2026:* I will present my research work at the ISBA World Meeting and the Bayesian Young Statistician Meeting (BAYSM), Japan (June 2026).
 - *March, 2026:* I was awarded the **Early Career Research Travel Grant** by London Mathematical Society. 
 - *May, 2025:* **Winning Team** of the International Centre for Mathematics Sciences Modelling Camp 2025, with the challenge from the Trainline company.

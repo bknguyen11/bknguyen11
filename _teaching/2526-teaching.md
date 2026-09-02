@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate & Undegraduate courses"
 permalink: /teaching/2526-teaching/
 venue: "School of Mathematics, The University of Edinburgh"
-date: 2025-01-01
+date: 2026-09-01
 location: "Edinburgh, UK"
 ---
 

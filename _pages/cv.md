@@ -48,6 +48,7 @@ Skills
   
 Service and leadership
 ======
+* *(October 2026)* Volunteer, BayesAI Workshop, Edinburgh (UK) 
 * *(January 2025 - present)* Peer-reviewer, Edinburgh Student Journal of Science 
 * *(September 2024 - present)* Postgraduate Research Students Seminar Organiser, School of Mathematics, University of Edinburgh  
 * *(March 2025)* Consultant, American Statistical Association Data Fest 2025    

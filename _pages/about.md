@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Mathematics and Statistics at the University of Edinburgh, affiliated with the School of Mathematics. My research focuses on high-dimensional Bayesian Machine Learning methodologies.  I am fortunate to be supervised by [Dr. Torben Sell](https://webhomes.maths.ed.ac.uk/~tsell/) and [Dr. Cecilia Balocchi](https://cecilia-balocchi.owlstown.net).
+I am a PhD student in Mathematics and Statistics at the University of Edinburgh (UK), affiliated with the School of Mathematics. My research focuses on high-dimensional Bayesian Machine Learning methodologies.  I am fortunate to be supervised by [Dr. Torben Sell](https://webhomes.maths.ed.ac.uk/~tsell/) and [Dr. Cecilia Balocchi](https://cecilia-balocchi.owlstown.net).
 
 My work spans both the applied and theoretical sides of Bayesian Machine learning. For applications, I am developing a Bayesian clustering method for satellite image segmentation. From theoretical side, I mainly work on Bayesian Deep Learning, focusing on the theoretical understanding of posterior concentration rates under simple priors (e.g., Gaussian priors), while maintaining computational efficiency.
 
-Before my doctoral studies, I obtained my Master's degree from Queen Mary University of London (U.K) and the Bachelor's degree from Hanoi National University of Education (Vietnam), both in Mathematics.
+Before my doctoral studies, I obtained my Master's degree from Queen Mary University of London (UK) and the Bachelor's degree from Hanoi National University of Education (Vietnam), both in Mathematics.
 
 News!!
 ======

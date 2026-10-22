@@ -8,4 +8,4 @@ I feel quite relaxed when I have time to sit down and start writing, whether it'
 
 I have run a small blog for 8 years where I frequently write about everything happening in my life, including my travels, or simply writing diary during big occasions I want to keep memory. 
 
-I am also building a blog page where I would like to share the beauty of mathematics, statistics and research skills. You can check my writings [here](https://sites.google.com/view/msdsimpact/about). 
+I am also building a blog page where I would like to share the beauty of mathematics, statistics and research skills. I will post here when the page is ready for the public. 

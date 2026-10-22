@@ -15,6 +15,7 @@ Before my doctoral studies, I obtained my Master's degree from Queen Mary Univer
 
 News!!
 ======
+- I will attend the BayesAI Meeting in Edinburgh (October 2026) and the IMS ICSDS 2026 in Croatia (December 2026).
 - *June, 2026*: My first PhD paper **Scalable Bayesian Spatial Mixture Modelling for Remote Sensing Image Segmentation** is now available on [arXiv](https://arxiv.org/abs/2606.29448).
 - *May, 2026*: I was awarded the **New Researcher Travel Award** by ISBA. 
 - *March, 2026:* I will present my research work at the ISBA World Meeting and the Bayesian Young Statistician Meeting (BAYSM), Japan (June 2026).

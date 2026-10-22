@@ -29,6 +29,9 @@ Work experience
  
 Academic Awards
 ======
+* *October, 2026* **Travel Grant**, European Women in Mathematics 
+* *April,2026* **Junior Researcher Travel Award**, International Society for Bayesian Analysis
+* *March, 2026* **Early Career Research Travel Grant**, London Mathematical Society
 * *May, 2025* **First prize**, International Centre for Mathematics Sciences Modelling Camp 2025  
 * *Feb, 2024* **PhD Fully-funded Studentship**, School of Mathematics, University of Edinburgh  
 * *June, 2023* **Pre-doctoral Fellowship**, Imperial College London, funded by U.K National Institute for Health and Care Research

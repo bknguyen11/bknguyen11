@@ -4,7 +4,7 @@ title: "Outside Academic Me"
 permalink: /outsiteacademicme/
 author_profile: true
 ---
-Apart from doing math and research, I enjoy cooking and can spend hours in the kitchen. I feel very relaxed when I cook. I am very good at tasting the food one time and duplicating the dish. I love baking on my family birthdays or some special celebrations. Luckily, my family usually finishes the whole cake with no leftovers!  
+Apart from doing math and research, I enjoy cooking and can spend hours in the kitchen. I feel very relaxed when I cook.
 
 I have played the piano since I was 7 years old, and I can play quite well. I love classical music and going to music concerts, which was inspired by my father - the one who taught me how to play the piano for the first time. 
 
